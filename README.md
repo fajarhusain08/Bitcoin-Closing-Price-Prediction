@@ -15,4 +15,7 @@ This project goal is to predicts the closing price of Bitcoin 7 days ahead from 
  # Prediction
   Optimal model is used for predict Bitcoin price. Input data in form of normalization is denormalized to get prediction data. This study predicts 7 days prediction from August 1, 2021 until August 7, 2021.
   
+  <p align="center">Visualization Test Results and Predictions</p>
+  
 ![img](https://github.com/fajarhusain08/Bitcoin-Closing-Price-Prediction/blob/master/Prediction.PNG)
+<p align="center">Comparison Plot Between Actual Price and Price Prediction</p>
