@@ -21,3 +21,4 @@ This project goal is to predicts the closing price of Bitcoin 7 days ahead from 
   
 ![img](https://github.com/fajarhusain08/Bitcoin-Closing-Price-Prediction/blob/master/Prediction.PNG)
 <p align="center">Comparison Plot Between Actual Price and Price Prediction</p>
+Can be seen in Figure above in the first 2 days price prediction has a lot of error compare of the actual price, but as it comes to third day price prediction follows the pattern of actual price until seventh day. It means prediction model produce good prediction result. Actual data represented as blue line and price prediction represented as orange line
